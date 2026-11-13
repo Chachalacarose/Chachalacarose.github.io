@@ -120,11 +120,14 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 1420px;
+    width: 1645px;
     padding-bottom: 80px;
 
 }
 
 .readable {
-    color: white;
+    font-family: Arial, sans-serif;
+    color: rgb(113, 25, 40);
+    font-size: 30px;
+    -webkit-text-stroke: 2px black;
 }
