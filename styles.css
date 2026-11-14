@@ -95,13 +95,6 @@ main {
     font-size: large;
 }
 
-.port-pic-right {
-    width: 100px;
-    height: 100px;
-    border-radius: 750px;
-    object-fit: cover;
-
-}
 
 .port-pic-left {
     width: 100px;
